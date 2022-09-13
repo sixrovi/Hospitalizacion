@@ -1,7 +1,7 @@
 namespace HospiEnCasa.App.Dominio
 {
     /// <summary>Class <c>Auxiliar</c>
-    /// Modela un Auxiliar Hospital en general en el sistema 
+    /// Modela un Auxiliar Hospital en general en el sistema Hospital en casa
     /// </summary>
     public class AuxiliarHospital : Persona
     {
